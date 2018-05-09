@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Continentes</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="title_activity_crud">Continentes</string>
+    <string name="title_activity_update_continent">Actualizar Continente</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+
+
+    <string name="name_text_field">Nombre del continente</string>
+    <string name="description_text_field">Descripción del continente</string>
+
+</resources>
